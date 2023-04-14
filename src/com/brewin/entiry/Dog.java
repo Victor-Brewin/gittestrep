@@ -11,7 +11,7 @@ public class Dog extends Animal implements Action {
 
 	@Override
 	public void bark() {
-		System.out.println(this.getName()+":ÍôÍô½Ğ");
+		System.out.println(this.getName()+":ÍôÍô½Ğ£¡£¡£¡");
 
 		
 	}
