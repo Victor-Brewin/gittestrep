@@ -1,0 +1,9 @@
+*.class
+bin
+build
+classes
+target
+generated
+.settings
+.classpath
+.project
