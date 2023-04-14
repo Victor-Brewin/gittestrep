@@ -9,5 +9,7 @@ public class Main {
 		as.bark();
 //		这是在fix1加的
 		//测试
+		
+//		维护
 	}
 }
