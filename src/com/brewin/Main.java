@@ -8,5 +8,6 @@ public class Main {
 		AnimalService as=new CatService();
 		as.bark();
 //		这是在fix1加的
+		//测试
 	}
 }
