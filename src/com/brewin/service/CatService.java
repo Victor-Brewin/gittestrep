@@ -1,5 +1,14 @@
 package com.brewin.service;
 
-public class CatService {
+import com.brewin.entiry.Cat;
+
+public class CatService implements AnimalService  {
+
+	@Override
+	public void bark() {
+		new Cat("Èý»¨").bark();
+	}
+
+	
 
 }
